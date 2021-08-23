@@ -18,3 +18,7 @@ EX 13 | 노드명 | link |
 EX 14 | 노드명 | link | 
 EX 15 | 노드명 | link | 
 EX 16 | 노드명 | link | 
+
+
+## 우수 노드 참고
+https://modulabs.notion.site/182adc74d1b64830b4ee93612b57d353
